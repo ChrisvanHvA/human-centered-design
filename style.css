@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    text-align: center;
+}
+h1 {
+    padding: 1em;
+}
+.opties {
+    display: flex;
+    flex-direction: column;
+}
+a {
+    height: 15vh;
+    width: auto;
+    background-color: lightgrey;
+   margin: 0.1em;
+   text-align: center;
+
+}
+form {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2em;
+}
+form div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: gray;
+    width: 100%;
+margin: 0.1em;
+padding: 1em;
+background-color: lightgrey;
+ 
+}
+input {
+    width: 100%;
+
+}
+label {
+    width: 100%;
+
+}
+button {
+    width: 100%;
+    height: 10vh;
+    margin-bottom: 2em;
+}
+
+div#warm {
+    display: none;
+}
+
+div#koud {
+    display: none;
+}
+div#kleurloos {
+    display: none;
+}
+form:has(input[name="kleurgroep"][value="warm"]:checked) div#warm {
+    display: flex;
+}
+form:has(input[name="kleurgroep"][value="koud"]:checked) div#koud {
+    display: flex;
+    }
+form:has(input[name="kleurgroep"][value="kleurloos"]:checked) div#kleurloos{
+    display: flex;
+    }
+    form > div#kleurloos, div#warm, div#koud {
+      
+        color: red;
+        background-color: blue;
+        }
+        input[type="submit"],  input[type="reset"]{
+            height: 10em;
+            text-align: center;
+        }
