@@ -33,11 +33,13 @@ Ook had ik zelf een concept alvast verzonnen waarbij je gebruik maakt van kledin
 Het system was dat de vorm je vertelde wat voor soort kledingstuk het is, zoals net of casual, de puntjes erop wijzen aan wat voor kleur het is (1 stip is wit, 2 stippen zwart etc.) en de extra vorm op de hanger verteld je wat voor stof het is.
 
 ik had dit met de 3D-printers op school uitgeprint en meegenomen naar het kennismakingsgesprek, ook had ik voor mijzelf een papiertje met vragen voorbereid en meegenomen, deze kon ik op mijn eigen chaotische manier invullen.
+![image](https://github.com/ChrisvanHvA/human-centered-design/assets/90341211/3e9bf07d-11e9-4fc9-ab81-dc5ba697489a)
 
 Op het eerste blaadje staan 3 concepten die ik had verzonnen en aan Petra kon voorstellen, dat waren de volgende;
 -Een luister app die je vraagt wat voor style je wilt dragen vandaag.
 -Een app waarme je kleding kan scannen en je informatie over het kledingsstuk krijgt.
 -3D geprinte symbolen die je op outfits kan plaatsen en kleding kan identificeren met een compagnon app die uitlegt hoe het precies werkt.
+![image](https://github.com/ChrisvanHvA/human-centered-design/assets/90341211/59eb77fa-8116-4ff4-be83-7e51c96d7ee9)
 
 ook had ik alvast een beschrijving voor mijn voorkeurconcept gemaakt:
 
@@ -115,6 +117,10 @@ Tijdens de interview heb ik veel interessante bevindingen gehad die genoteerd ha
 -Alles waar ze overheen gaat wordt luid uitgesproken.
 -Online kleding uitzoeken is lastig, slechte beschrijvingen.
 -Petra heeft geen kat.
+![image](https://github.com/ChrisvanHvA/human-centered-design/assets/90341211/47ee45c9-5282-4266-afc2-6b6af5affb11)
+![image](https://github.com/ChrisvanHvA/human-centered-design/assets/90341211/7d57277d-0e34-43d4-95a0-f15fe3bcb702)
+![image](https://github.com/ChrisvanHvA/human-centered-design/assets/90341211/914da16f-4a5e-44fb-94b6-cf81becae18d)
+
 
 Door de bevindingen wist ik waar ik wel en niet rekening mee moet houden, zo wist ik dat ze niet reminders voor kledingrollers gebruiken nodig heeft, omdat haar kleren waarschijnlijk niet vol met haren van huisdieren zitten.
 Ook wist ik dat het gebruik van een smartphone goed gaat, en dat het duidelijk uitleggen uitermate belangrijk is om een goede app te creeeren.
@@ -125,6 +131,7 @@ Ook leek het mij verstandig om mijn idee zo aan te passen dat het meer modulair 
 
 Het tweede concept ging verder met wat er goed ging bij het eerste concept, de hanger informatie zit nu op individuele hangers zodat je ze makkelijker kan hergebruiken voor nieuwe kledingstukken. een van de hangers geeft aan welke tint het kledingstuk heeft, de tweede hanger zegt welke kleur het is, dit kan alles in de primaire of secundaire kleurenwiel zijn, de laatste hanger heeft een vorm die aangeeft wat voor situatie het kledingstuk voor bedoelt is.
 ook had ik nu een app gemaakt met 3 functies, het herkennen van kledingstukken, het toevoegen van nieuwe kledingstukken en tot slot kan je outfits maken.
+![image](https://github.com/ChrisvanHvA/human-centered-design/assets/90341211/feb4779c-40b9-44d0-8b14-9cf5278add6d)
 
 ### Outfit App functies - beter uitgelegd.
 
@@ -135,6 +142,7 @@ Vervolgens kan ze met "outfit maken" een outfit in elkaar zetten waarbij de digi
 Tot slot kan ze met de functie "outfit herkennen" hulp krijgen bij het herkennen van kledingstukken met labels, voor het geval ze vergeet hoe het systeem ookalweer werkt.
 
 ### Final usertest
+![image](https://github.com/ChrisvanHvA/human-centered-design/assets/90341211/a2376e77-c314-4d0b-9936-d245e485c835)
 
 Bij de laatste usertest heb ik niet alleen gekeken naar mijn eigen app, maar ook hoe het ging bij andere studenten.
 Wat mij opviel bij de andere studenten is dat veel browsers het overcomplex maken om door een pagian heen te gaan, het geeft je bij elke refresh of link naar een andere pagina weer de taakbalk met extensies en blijft niet goed in het programma, het maken van een applicatie is echt van belang als je het makkelijker wilt maken voor Petra.
@@ -146,6 +154,12 @@ Tijdens het testen van mijn nieuwe versie was ik positief verrast met hoe gemakk
 -Zorg dat de kleuren niet een waslijst zijn maar dat het goed gesorteerd wordt.
 -Zorg dat het makkelijk is om een stap terug te gaan of om fouten te verbeteren.
 -Houd de kledinghangers nog optioneel en niet een verplichting voor alle kledingstukken.
+### App fotos:
+![image](https://github.com/ChrisvanHvA/human-centered-design/assets/90341211/12771988-be6b-4ea8-85dc-94adc4f51317)
+![image](https://github.com/ChrisvanHvA/human-centered-design/assets/90341211/c4a6d29c-a25a-46e3-bb7e-72b804754801)
+![image](https://github.com/ChrisvanHvA/human-centered-design/assets/90341211/29429a5c-759c-45f9-af30-f18bed5801ff)
+![image](https://github.com/ChrisvanHvA/human-centered-design/assets/90341211/4067f96e-0891-4d02-8428-7edb949d290a)
+![image](https://github.com/ChrisvanHvA/human-centered-design/assets/90341211/619a40ab-c766-497d-9614-91b330cb58c8)
 
 # Slotzin
 
