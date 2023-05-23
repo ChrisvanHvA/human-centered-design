@@ -54,10 +54,10 @@ afgeraden combinaties
 
 de situatie kan door middel van de vorm bepaald worden
 
-vierkant: simpel
-rond: trendy
-driehoek: formeel
-diamant: patroon/print
+vierkant: simpel  
+rond: trendy  
+driehoek: formeel  
+diamant: patroon/print  
 
 de kleuren kan door stippen bepaald worden
 
