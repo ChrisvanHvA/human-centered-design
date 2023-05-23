@@ -61,19 +61,19 @@ diamant: patroon/print
 
 de kleuren kan door stippen bepaald worden
 
-1 stip wit
-2 stippen zwart
-3 stippen blauw
-4 stippen rood
-5 stippen groen
+1 stip wit  
+2 stippen zwart  
+3 stippen blauw  
+4 stippen rood  
+5 stippen groen  
 etc.
 
 Onder de kleur stippen kan er door middel van een patroon van de andere vormen duidelijk gemaakt worden welke je niet kan mix en matchen
 
-vierkant: past niet goed met simpel
-rond: past niet goed met trendy
-driehoek: past niet goed met formeel
-diamant past niet goed met patroon/print
+vierkant: past niet goed met simpel  
+rond: past niet goed met trendy  
+driehoek: past niet goed met formeel  
+diamant past niet goed met patroon/print  
 
 de patronen op de emblemen zijn er om de kleding herkenbaar te maken en te zorgen dat de gebruiker deze makkelijk kleren uit kan kiezen, maar het herinneren van alle patronen en verzinnen van combinaties kan lastig zijn:
 
@@ -83,25 +83,25 @@ Tijdens het interview heb ik veel interessante bevindingen gehad die genoteerd h
 
 ### De vragen die verder gesteld waren zijn:
 
-- "Bent u blind geboren of blind geworden?"
+- "Bent u blind geboren of blind geworden?"  
 Blind geboren.
-- "Wat doet u in het dagelijks leven"
+- "Wat doet u in het dagelijks leven"  
 Werkt op kantoor waar ze met OV heen reist, soms werkt ze thuis
-- "wat is nu de manier om kleding uit te zoeken?"
+- "wat is nu de manier om kleding uit te zoeken?"  
 Sommige stukken zijn makkelijk te identificeren op gevoel maar andere kleding zoals hemden zijn wel lastiger.
-- "Wat helpt bij het herkennen?"
+- "Wat helpt bij het herkennen?"  
 Stof, vorm, knopen ritsen etc.
-- "krijg je hulp thuis bij het uitzoeken van kleding?"
+- "krijg je hulp thuis bij het uitzoeken van kleding?"  
 meestal is het niet nodig, alleen bij twijfel.
-- "Zijn er irritaties bij het gebruiken van screenreaders op websites"
+- "Zijn er irritaties bij het gebruiken van screenreaders op websites"  
 sommige sites zijn totaal niet toegankelijk, pop ups werken niet goed, sommige knoppen hebben geen labels en zijn moeilijk te begrijpen.
-- "Kun je goed op weg met een telefoon?"
+- "Kun je goed op weg met een telefoon?"  
 ja
--"Zijn er bepaalde sites die voor je uitsteken wanneer het komt tot toegankelijk design?"
+-"Zijn er bepaalde sites die voor je uitsteken wanneer het komt tot toegankelijk design?"  
 Apps zijn vaak beter gemaakt voor screenreaders, lovely.com werkt erg goed.
-- "Gebruik je vaak siri?"
+- "Gebruik je vaak siri?"  
 niet echt, Siri praat sloom, alleen google nest wordt thuis veel gebruikt voor de thermostaat,
-- "Heeft u al ideeen voor dit project?"
+- "Heeft u al ideeen voor dit project?"  
 nee
 
 ### Mijn persoonlijke bevindingen tijdens het testen/praten:
