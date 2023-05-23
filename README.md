@@ -12,6 +12,20 @@ Petra is een zelfstandige vrouw die vrijwel op dezelfde manier leeft als ieder a
 
 Het uitkiezen van kleding is soms makkelijk te doen, omdat ze de meeste kleding in haar kast wel kan herkennen door het textuur en de vorm, alleen zijn er ook shirts en vesten waar ze de kleur niet meer van weet of niet gemakkelijk kan herkennen, hoe lossen we dit op?
 
+
+## User scenario
+"Wie is de testpersoon, wat wilt ze, hoe wilt ze het en waarom wilt ze het?"
+
+Petra is een vrouw die blind geboren is, ze gaat normaal door het leven en maakt veel gebruik van ondersteunende middelen om dit zelfstandig te kunnen.
+ze heeft een laptop met braille toetsenboord, een iPhone met een screenreader, en een smart watch die berichten en de tijd hardop kunnnen voorlezen.
+
+Petra wilt haar kledingkast makkelijker en zelfstandig kunnen identificeren, zodat ze zelf weet wat ze draagt en geen moeite heeft met het herkennen van kleding en het uitkiezen van een outfit.
+
+Ze wilt dat het een digitale applicatie wordt, ze maakt gebruik van screenreaders dus spreekt het van zich dat het hier op afgestemd moet zijn.
+De applicatie moet een bepaalde structuur hebben om er makkelijk doorheen te kunnen navigeren, het moet een aantal functies hebben zoals kleding identificeren en outfits samenstellen.
+
+Ze wilt de applicatie hebben zodat ze nog meer zelfstandigheid kan hebben en geen hulp aan haar man hoeft te vragen, ook is kleding erg van belang voor Petra, je outfit is je identiteit.
+
 ## Oplossing - Kledingzoeker app
 Mijn Oplossing Voor dit probleem was om een applicatie te maken die je helpt met het identificeren van kleding en het maken van een outfit.
 De applicatie is volledig afgestemd op de wensen en eisen van Petra, zodat ze makkelijk gebruik hiervan kan maken.
