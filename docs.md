@@ -83,26 +83,26 @@ Tijdens het interview heb ik veel interessante bevindingen gehad die genoteerd h
 
 ### De vragen die verder gesteld waren zijn:
 
-"Bent u blind geboren of blind geworden?"
-- Blind geboren.
-"Wat doet u in het dagelijks leven"
-- Werkt op kantoor waar ze met OV heen reist, soms werkt ze thuis
-"wat is nu de manier om kleding uit te zoeken?"
-- Sommige stukken zijn makkelijk te identificeren op gevoel maar andere kleding zoals hemden zijn wel lastiger.
-"Wat helpt bij het herkennen?"
-- Stof, vorm, knopen ritsen etc.
-"krijg je hulp thuis bij het uitzoeken van kleding?"
-- meestal is het niet nodig, alleen bij twijfel.
-"Zijn er irritaties bij het gebruiken van screenreaders op websites"
-- sommige sites zijn totaal niet toegankelijk, pop ups werken niet goed, sommige knoppen hebben geen labels en zijn moeilijk te begrijpen.
-"Kun je goed op weg met een telefoon?"
-- ja
-"Zijn er bepaalde sites die voor je uitsteken wanneer het komt tot toegankelijk design?"
-- Apps zijn vaak beter gemaakt voor screenreaders, lovely.com werkt erg goed.
-"Gebruik je vaak siri?"
-- niet echt, Siri praat sloom, alleen google nest wordt thuis veel gebruikt voor de thermostaat,
-"Heeft u al ideeen voor dit project?"
-- nee
+-"Bent u blind geboren of blind geworden?"
+Blind geboren.
+-"Wat doet u in het dagelijks leven"
+Werkt op kantoor waar ze met OV heen reist, soms werkt ze thuis
+-"wat is nu de manier om kleding uit te zoeken?"
+Sommige stukken zijn makkelijk te identificeren op gevoel maar andere kleding zoals hemden zijn wel lastiger.
+-"Wat helpt bij het herkennen?"
+Stof, vorm, knopen ritsen etc.
+-"krijg je hulp thuis bij het uitzoeken van kleding?"
+meestal is het niet nodig, alleen bij twijfel.
+-"Zijn er irritaties bij het gebruiken van screenreaders op websites"
+sommige sites zijn totaal niet toegankelijk, pop ups werken niet goed, sommige knoppen hebben geen labels en zijn moeilijk te begrijpen.
+-"Kun je goed op weg met een telefoon?"
+ja
+--"Zijn er bepaalde sites die voor je uitsteken wanneer het komt tot toegankelijk design?"
+Apps zijn vaak beter gemaakt voor screenreaders, lovely.com werkt erg goed.
+-"Gebruik je vaak siri?"
+niet echt, Siri praat sloom, alleen google nest wordt thuis veel gebruikt voor de thermostaat,
+-"Heeft u al ideeen voor dit project?"
+nee
 
 ### Mijn persoonlijke bevindingen tijdens het testen/praten:
 -Geen gebruik van siri maken, werkt slecht.
