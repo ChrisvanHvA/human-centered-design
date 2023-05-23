@@ -80,4 +80,4 @@ Na het kennismakingsgesprek en de eerste testen hadden we weer tijd om verder te
 
 Tijdens het testen van mijn nieuwe versie was ik positief verrast met hoe gemakkelijk het was voor Petra om de kaartjes te herkennen, ze kon meteen de braille hangers lezen en voelde meteen welke vorm het laatste hangertje had, ook ging ze met redelijk veel gemak door mijn app heen die ik op mijn mobiel had, ook al was dit een Android (ze gebruikt zelf een iPhone).
 
-# De volledige documentatie en testverslagen kun je [hier vinden](https://github.com/ChrisvanHvA/human-centered-design/blob/main/docs.md)
+## [De volledige documentatie en testverslagen kun je hier vinden](https://github.com/ChrisvanHvA/human-centered-design/blob/main/docs.md)
