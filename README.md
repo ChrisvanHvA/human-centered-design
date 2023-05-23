@@ -6,7 +6,7 @@
 ## Hoe kan een slechtziend of blind persoon passende kleding uitzoeken?
 
 ## Het dilemma
-De kleren die je draagt zijn je identiteit, je kunt aan iedereen duidelijk maken wat je interesses zijn, welke kleuren je mooi vind, of je vrolijk bent of juist serieus/formeel bent.
+De kleren die je draagt zijn je identiteit, je kunt aan iedereen duidelijk maken wat je interesses zijn, welke kleuren je mooi vind, of je vrolijk bent of juist serieus/formeel bent.  
 Voor Petra is haar kledingkast ook erg belangrijk, ze wilt er graag verzorgt uit zien en kleding dragen die passen bij haar huidige stemming, alleen kan dit nog wel eens een uitdaging zijn, Petra is namelijk blind geboren.
 Petra is een zelfstandige vrouw die vrijwel op dezelfde manier leeft als ieder ander persoon, alleen doet ze een aantal dingen net wat anders, zo gebruikt ze screenreaders op haar telefoon bijvoorbeeld.
 
@@ -16,18 +16,18 @@ Het uitkiezen van kleding is soms makkelijk te doen, omdat ze de meeste kleding 
 ## User scenario
 "Wie is de testpersoon, wat wilt ze, hoe wilt ze het en waarom wilt ze het?"
 
-Petra is een vrouw die blind geboren is, ze gaat normaal door het leven en maakt veel gebruik van ondersteunende middelen om dit zelfstandig te kunnen.
+Petra is een vrouw die blind geboren is, ze gaat normaal door het leven en maakt veel gebruik van ondersteunende middelen om dit zelfstandig te kunnen.  
 ze heeft een laptop met braille toetsenboord, een iPhone met een screenreader, en een smart watch die berichten en de tijd hardop kunnnen voorlezen.
 
 Petra wilt haar kledingkast makkelijker en zelfstandig kunnen identificeren, zodat ze zelf weet wat ze draagt en geen moeite heeft met het herkennen van kleding en het uitkiezen van een outfit.
 
-Ze wilt dat het een digitale applicatie wordt, ze maakt gebruik van screenreaders dus spreekt het van zich dat het hier op afgestemd moet zijn.
+Ze wilt dat het een digitale applicatie wordt, ze maakt gebruik van screenreaders dus spreekt het van zich dat het hier op afgestemd moet zijn.  
 De applicatie moet een bepaalde structuur hebben om er makkelijk doorheen te kunnen navigeren, het moet een aantal functies hebben zoals kleding identificeren en outfits samenstellen.
 
 Ze wilt de applicatie hebben zodat ze nog meer zelfstandigheid kan hebben en geen hulp aan haar man hoeft te vragen, ook is kleding erg van belang voor Petra, je outfit is je identiteit.
 
 ## Oplossing - Kledingzoeker app
-Mijn Oplossing Voor dit probleem was om een applicatie te maken die je helpt met het identificeren van kleding en het maken van een outfit.
+Mijn Oplossing Voor dit probleem was om een applicatie te maken die je helpt met het identificeren van kleding en het maken van een outfit.  
 De applicatie is volledig afgestemd op de wensen en eisen van Petra, zodat ze makkelijk gebruik hiervan kan maken.
 
 De applicatie heeft 3 primaire functies:
@@ -79,13 +79,13 @@ Tot slot wou ze ook weten welke kledingstukken bij elkaar kunnen passen zodat ze
 ## Usertesten en resultaten:
 
 ### Eerste test
-Tijdens de eerste test had ik samen met mijn mede studenten een bestand aan gemaakt waar we vragen in hadden gezet en alvast van tevoren konden bedenken wat relevant zou zijn om te weten, dit waren de "known unknowns" voor ons,
+Tijdens de eerste test had ik samen met mijn mede studenten een bestand aan gemaakt waar we vragen in hadden gezet en alvast van tevoren konden bedenken wat relevant zou zijn om te weten, dit waren de "known unknowns" voor ons,  
 [de link naar de Google docs is hier.](https://docs.google.com/document/d/1oQQ9XDxXS25HKwzruN0ERvfCZs9AkTYnjvbtVu1cjoU/edit)
 
 Naast de vragen die ik samen met mijn mede studenten had verzonnen had ik zelf ook nog een paar concepten bedacht die voor mij goede oplossingen leken voor het probleem dat Petra heeft, een van de concepten was om fysieke hangertjes te maken die de kleren kunnen defineren, samen met een app die de hangers uitlegt en de kledingkast inventariseert hoopte ik haar probleem op te kunnen lossen.
 ![eerste hanger](https://github.com/ChrisvanHvA/human-centered-design/assets/90341211/bad65065-7570-4f2c-9b00-1abb24c810fe)
 
-Tijdens het ondervragen en testen waren er veel interessante maar ook cruciale bevindingen gekomen, de hangers zouden werken maar zijn niet erg modulair, en kunnen maar een keer gebruikt worden, ook is het designen voor pc niet super relevant omdat ze gemakkelijk via haar telefoon kan werken.
+Tijdens het ondervragen en testen waren er veel interessante maar ook cruciale bevindingen gekomen, de hangers zouden werken maar zijn niet erg modulair, en kunnen maar een keer gebruikt worden, ook is het designen voor pc niet super relevant omdat ze gemakkelijk via haar telefoon kan werken.  
 Tot slot had ik nog gekeken naar de testen van mijn mede studenten en heb ik ook een aantal bevindingen gekregen, bijvoorbeeld hoe Petra te werk gaat op een pc en wat voor inputs gemakkelijk gaan en welke nog wel eens een uitdaging kunnen zijn.
 
 ### Laatste test
