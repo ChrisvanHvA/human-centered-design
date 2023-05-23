@@ -35,9 +35,9 @@ ik had dit met de 3D-printers op school uitgeprint en meegenomen naar het kennis
 ![image](https://github.com/ChrisvanHvA/human-centered-design/assets/90341211/3e9bf07d-11e9-4fc9-ab81-dc5ba697489a)
 
 Op het eerste blaadje staan 3 concepten die ik had verzonnen en aan Petra kon voorstellen, dat waren de volgende;
--Een luister app die je vraagt wat voor style je wilt dragen vandaag.
--Een app waarmee je kleding kan scannen en je informatie over het kledingstuk krijgt.
--3D geprinte symbolen die je op outfits kan plaatsen en kleding kan identificeren met een compagnon app die uitlegt hoe het precies werkt.
+- Een luister app die je vraagt wat voor style je wilt dragen vandaag.
+- Een app waarmee je kleding kan scannen en je informatie over het kledingstuk krijgt.
+- 3D geprinte symbolen die je op outfits kan plaatsen en kleding kan identificeren met een compagnon app die uitlegt hoe het precies werkt.
 ![image](https://github.com/ChrisvanHvA/human-centered-design/assets/90341211/59eb77fa-8116-4ff4-be83-7e51c96d7ee9)
 
 ook had ik alvast een beschrijving voor mijn voorkeursconcept gemaakt:
@@ -144,11 +144,11 @@ Wat mij opviel bij de andere studenten is dat veel browsers het overcomplex make
 Tijdens het testen van mijn nieuwe versie was ik positief verrast met hoe gemakkelijk het was voor Petra om de kaartjes te herkennen, ze kon meteen de braille hangers lezen en voelde meteen welke vorm het laatste hangertje had, ook ging ze met redelijk veel gemak door mijn app heen die ik op mijn mobiel had, ook al was dit een Android (ze gebruikt zelf een iPhone)
 
 ### Bevindingen:
--Navigatiebalk moet aan de bovenkant, dit is logischer voor haar,
--Houd uitleg kort en krachtig
--Zorg dat de kleuren niet een waslijst zijn maar dat het goed gesorteerd wordt.
--Zorg dat het makkelijk is om een stap terug te gaan of om fouten te verbeteren.
--Houd de kledinghangers nog optioneel en niet een verplichting voor alle kledingstukken.
+- Navigatiebalk moet aan de bovenkant, dit is logischer voor haar,
+- Houd uitleg kort en krachtig
+- Zorg dat de kleuren niet een waslijst zijn maar dat het goed gesorteerd wordt.
+- Zorg dat het makkelijk is om een stap terug te gaan of om fouten te verbeteren.
+- Houd de kledinghangers nog optioneel en niet een verplichting voor alle kledingstukken.
 ### App fotos:
 ![image](https://github.com/ChrisvanHvA/human-centered-design/assets/90341211/12771988-be6b-4ea8-85dc-94adc4f51317)
 ![image](https://github.com/ChrisvanHvA/human-centered-design/assets/90341211/c4a6d29c-a25a-46e3-bb7e-72b804754801)
